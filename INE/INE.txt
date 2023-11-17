@@ -1,0 +1,12 @@
+Nombre: JOse fernando kumul herrera
+sexo: h
+Domicilio: c72 my lt23
+Código Postal: 77519
+Municipio: Benito juarez
+Estado: Q.Roo
+Clave de elector: djkfjkd
+Curp: djdkdkd
+Año de registro: 2021 00
+Fecha de nacimiento: 17/09/2003
+Sección: 0016
+Vigencia: 2021 - 2032
